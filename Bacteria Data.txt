@@ -1,0 +1,23 @@
+90
+Escherichia coli
+1200
+Bartonella
+450
+Botulism
+800
+
+40
+Klebsiella
+200
+Clostridium
+500
+Escherichia coli
+1000
+
+120
+Salmonella
+1500
+Staphylococcus
+700
+Botulism
+800
