@@ -1,15 +1,1 @@
-Simulation #1
-Time Period: 90 minutes
-Growth rate for Escherichia coli: 1216.50%
-Growth rate for Bartonella: 1575.33%
-Growth rate for Botulism: 1258.88%
-Simulation #1
-Time Period: 40 minutes
-Growth rate for Klebsiella: 349.50%
-Growth rate for Clostridium: 269.40%
-Growth rate for Escherichia coli: 201.80%
-Simulation #1
-Time Period: 90 minutes
-Growth rate for Escherichia coli: 1411.92%
-Growth rate for Bartonella: 2367.78%
-Growth rate for Botulism: 708.12%
+
